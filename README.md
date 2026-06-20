@@ -1,36 +1,52 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+🚀 ISS Dashboard
 
-## Getting Started
+A modern web application built with Next.js, TypeScript, and Tailwind CSS that provides real-time tracking of the International Space Station (ISS). The application features a clean, responsive dashboard with authentication, theme switching, and an interactive map displaying the ISS's current position.
 
-First, run the development server:
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+✨ Features
+🌍 Real-time ISS location tracking
+🗺️ Interactive map powered by Leaflet
+📊 Dashboard with live ISS data
+🔐 Protected authentication flow
+🌗 Light and Dark mode support
+📄 Paginated data display
+🎨 Modern, user-friendly interface
+☁️ Deployed on Vercel
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+🛠️ Tech Stack
+Next.js
+React
+TypeScript
+Tailwind CSS
+Leaflet & React Leaflet
+Axios
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+📚 Learning Outcomes
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+This project helped me strengthen my understanding of:
 
-## Learn More
+Next.js App Router
+React component architecture
+API integration using Axios
+Interactive maps with Leaflet
+TypeScript
+Route protection and authentication
+Theme management (Light/Dark Mode)
+Git, GitHub, and deployment with Vercel
 
-To learn more about Next.js, take a look at the following resources:
+⚠️ Notes
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+This project was developed as part of my learning journey with modern web development.
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+The application is currently optimized for desktop and laptop viewing. Interface may not show optimum behaviour on Mobile phone. 
 
-## Deploy on Vercel
+🔮 Future Improvements
+Improve mobile responsiveness
+Add more ISS telemetry and analytics
+Enhance accessibility
+Improve animations and transitions
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+P.S. The project is made by a beginner to next.js, learning will continue forever!
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+P.S. Readme file partially uses AI to briefly summarize the project, the project itself however, is hand-coded.
+Thanks! :)
