@@ -1,4 +1,4 @@
-##🚀 ISS Dashboard
+#🚀 ISS Dashboard
 
 A modern web application built with Next.js, TypeScript, and Tailwind CSS that provides real-time tracking of the International Space Station (ISS). The application features a clean, responsive dashboard with authentication, theme switching, and an interactive map displaying the ISS's current position.
 
