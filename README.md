@@ -46,6 +46,8 @@ Add more ISS telemetry and analytics
 Enhance accessibility
 Improve animations and transitions
 
+P.S. A video demonstrating the app behaviour has been uploaded in screenshots folder
+
 P.S. The project is made by a beginner to next.js, learning will continue forever!
 
 P.S. Readme file partially uses AI to briefly summarize the project, the project itself however, is hand-coded.
